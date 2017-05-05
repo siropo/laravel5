@@ -1,0 +1,28 @@
+{
+  "name": "prodaikupi",
+  "version": "0.0.0",
+  "authors": [
+    "Viktor Ivanov <siropo1111@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.4",
+    "bootstrap": "~3.3.6",
+    "bootstrap-fileinput": "~4.3.3",
+    "bootstrap-select": "~1.10.0",
+    "jquery-sortable": "~0.9.13"
+  }
+}
